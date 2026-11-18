@@ -1,0 +1,501 @@
+CustomerID,County,CustomerType
+CUST0001,Nakuru,Small Business
+CUST0002,Mombasa,Small Business
+CUST0003,Nyeri,Consumer
+CUST0004,Kisumu,Corporate
+CUST0005,Nyeri,Small Business
+CUST0006,Nyeri,Small Business
+CUST0007,Kisumu,Small Business
+CUST0008,Nakuru,Consumer
+CUST0009,Nyeri,Consumer
+CUST0010,Mombasa,Small Business
+CUST0011,Kisumu,Small Business
+CUST0012,Nyeri,Corporate
+CUST0013,Nyeri,Small Business
+CUST0014,Nyeri,Small Business
+CUST0015,Kisumu,Corporate
+CUST0016,Nyeri,Consumer
+CUST0017,Nyeri,Corporate
+CUST0018,Nyeri,Corporate
+CUST0019,Nyeri,Consumer
+CUST0020,Nairobi,Consumer
+CUST0021,Nairobi,Consumer
+CUST0022,Mombasa,Consumer
+CUST0023,Nakuru,Small Business
+CUST0024,Kiambu,Consumer
+CUST0025,Kisumu,Small Business
+CUST0026,Kiambu,Consumer
+CUST0027,Kiambu,Consumer
+CUST0028,Nairobi,Consumer
+CUST0029,Nyeri,Consumer
+CUST0030,Kiambu,Corporate
+CUST0031,Nyeri,Consumer
+CUST0032,Nakuru,Consumer
+CUST0033,Kiambu,Consumer
+CUST0034,Kisumu,Small Business
+CUST0035,Kiambu,Small Business
+CUST0036,Kisumu,Corporate
+CUST0037,Nyeri,Small Business
+CUST0038,Kisumu,Small Business
+CUST0039,Kiambu,Small Business
+CUST0040,Mombasa,Corporate
+CUST0041,Nyeri,Small Business
+CUST0042,Nakuru,Consumer
+CUST0043,Mombasa,Corporate
+CUST0044,Kiambu,Corporate
+CUST0045,Nakuru,Small Business
+CUST0046,Kiambu,Corporate
+CUST0047,Nakuru,Corporate
+CUST0048,Nakuru,Consumer
+CUST0049,Nyeri,Corporate
+CUST0050,Nyeri,Small Business
+CUST0051,Kisumu,Small Business
+CUST0052,Kisumu,Small Business
+CUST0053,Nairobi,Corporate
+CUST0054,Mombasa,Small Business
+CUST0055,Kiambu,Small Business
+CUST0056,Kisumu,Consumer
+CUST0057,Nairobi,Small Business
+CUST0058,Mombasa,Corporate
+CUST0059,Nyeri,Corporate
+CUST0060,Mombasa,Consumer
+CUST0061,Kiambu,Corporate
+CUST0062,Mombasa,Corporate
+CUST0063,Nyeri,Small Business
+CUST0064,Nairobi,Consumer
+CUST0065,Kiambu,Small Business
+CUST0066,Nakuru,Consumer
+CUST0067,Nyeri,Consumer
+CUST0068,Nairobi,Small Business
+CUST0069,Mombasa,Corporate
+CUST0070,Kiambu,Small Business
+CUST0071,Nairobi,Corporate
+CUST0072,Kisumu,Corporate
+CUST0073,Mombasa,Consumer
+CUST0074,Nyeri,Consumer
+CUST0075,Nyeri,Corporate
+CUST0076,Nairobi,Corporate
+CUST0077,Nakuru,Small Business
+CUST0078,Mombasa,Small Business
+CUST0079,Kisumu,Small Business
+CUST0080,Mombasa,Corporate
+CUST0081,Nakuru,Corporate
+CUST0082,Nakuru,Consumer
+CUST0083,Kiambu,Consumer
+CUST0084,Kiambu,Consumer
+CUST0085,Nakuru,Corporate
+CUST0086,Nairobi,Corporate
+CUST0087,Mombasa,Corporate
+CUST0088,Nyeri,Consumer
+CUST0089,Nairobi,Small Business
+CUST0090,Nyeri,Consumer
+CUST0091,Nairobi,Small Business
+CUST0092,Nairobi,Consumer
+CUST0093,Nakuru,Corporate
+CUST0094,Kiambu,Consumer
+CUST0095,Kisumu,Small Business
+CUST0096,Kisumu,Corporate
+CUST0097,Kisumu,Corporate
+CUST0098,Nakuru,Consumer
+CUST0099,Kisumu,Corporate
+CUST0100,Mombasa,Small Business
+CUST0101,Nairobi,Small Business
+CUST0102,Kiambu,Small Business
+CUST0103,Nakuru,Corporate
+CUST0104,Nyeri,Small Business
+CUST0105,Mombasa,Small Business
+CUST0106,Kiambu,Small Business
+CUST0107,Nakuru,Consumer
+CUST0108,Kiambu,Corporate
+CUST0109,Kiambu,Consumer
+CUST0110,Nairobi,Small Business
+CUST0111,Nairobi,Small Business
+CUST0112,Kisumu,Consumer
+CUST0113,Nakuru,Small Business
+CUST0114,Kiambu,Small Business
+CUST0115,Nairobi,Consumer
+CUST0116,Kisumu,Consumer
+CUST0117,Nyeri,Corporate
+CUST0118,Nakuru,Corporate
+CUST0119,Nakuru,Small Business
+CUST0120,Kiambu,Consumer
+CUST0121,Nairobi,Consumer
+CUST0122,Kiambu,Consumer
+CUST0123,Mombasa,Small Business
+CUST0124,Nyeri,Corporate
+CUST0125,Kiambu,Corporate
+CUST0126,Kisumu,Small Business
+CUST0127,Nakuru,Corporate
+CUST0128,Mombasa,Small Business
+CUST0129,Nakuru,Consumer
+CUST0130,Kisumu,Small Business
+CUST0131,Kisumu,Consumer
+CUST0132,Nakuru,Corporate
+CUST0133,Mombasa,Small Business
+CUST0134,Nairobi,Small Business
+CUST0135,Kisumu,Small Business
+CUST0136,Nyeri,Corporate
+CUST0137,Nairobi,Small Business
+CUST0138,Nyeri,Small Business
+CUST0139,Nakuru,Consumer
+CUST0140,Kiambu,Corporate
+CUST0141,Nakuru,Small Business
+CUST0142,Mombasa,Consumer
+CUST0143,Kisumu,Corporate
+CUST0144,Nairobi,Consumer
+CUST0145,Mombasa,Consumer
+CUST0146,Kiambu,Small Business
+CUST0147,Nakuru,Small Business
+CUST0148,Kiambu,Small Business
+CUST0149,Kisumu,Consumer
+CUST0150,Nairobi,Consumer
+CUST0151,Nakuru,Consumer
+CUST0152,Kisumu,Consumer
+CUST0153,Kisumu,Corporate
+CUST0154,Kiambu,Small Business
+CUST0155,Nakuru,Small Business
+CUST0156,Nyeri,Small Business
+CUST0157,Kiambu,Corporate
+CUST0158,Nairobi,Consumer
+CUST0159,Nakuru,Consumer
+CUST0160,Nairobi,Small Business
+CUST0161,Kisumu,Small Business
+CUST0162,Kiambu,Corporate
+CUST0163,Kiambu,Corporate
+CUST0164,Mombasa,Corporate
+CUST0165,Mombasa,Consumer
+CUST0166,Nakuru,Consumer
+CUST0167,Nyeri,Consumer
+CUST0168,Nyeri,Corporate
+CUST0169,Mombasa,Corporate
+CUST0170,Nyeri,Corporate
+CUST0171,Mombasa,Consumer
+CUST0172,Nakuru,Corporate
+CUST0173,Nyeri,Small Business
+CUST0174,Nakuru,Corporate
+CUST0175,Nairobi,Small Business
+CUST0176,Kisumu,Consumer
+CUST0177,Nakuru,Consumer
+CUST0178,Nyeri,Corporate
+CUST0179,Mombasa,Small Business
+CUST0180,Mombasa,Small Business
+CUST0181,Kisumu,Small Business
+CUST0182,Kisumu,Small Business
+CUST0183,Kisumu,Corporate
+CUST0184,Nairobi,Consumer
+CUST0185,Kisumu,Consumer
+CUST0186,Nairobi,Corporate
+CUST0187,Mombasa,Small Business
+CUST0188,Kiambu,Consumer
+CUST0189,Mombasa,Consumer
+CUST0190,Mombasa,Consumer
+CUST0191,Nyeri,Consumer
+CUST0192,Nairobi,Consumer
+CUST0193,Nakuru,Consumer
+CUST0194,Nairobi,Corporate
+CUST0195,Nyeri,Corporate
+CUST0196,Nyeri,Corporate
+CUST0197,Mombasa,Small Business
+CUST0198,Kisumu,Consumer
+CUST0199,Kisumu,Corporate
+CUST0200,Nairobi,Corporate
+CUST0201,Nyeri,Small Business
+CUST0202,Mombasa,Consumer
+CUST0203,Nairobi,Consumer
+CUST0204,Kiambu,Small Business
+CUST0205,Nairobi,Small Business
+CUST0206,Kiambu,Consumer
+CUST0207,Nakuru,Corporate
+CUST0208,Kiambu,Small Business
+CUST0209,Nyeri,Small Business
+CUST0210,Kisumu,Consumer
+CUST0211,Kiambu,Corporate
+CUST0212,Nairobi,Corporate
+CUST0213,Kiambu,Consumer
+CUST0214,Nakuru,Small Business
+CUST0215,Kisumu,Small Business
+CUST0216,Mombasa,Corporate
+CUST0217,Mombasa,Consumer
+CUST0218,Nakuru,Corporate
+CUST0219,Kiambu,Small Business
+CUST0220,Nairobi,Consumer
+CUST0221,Nakuru,Consumer
+CUST0222,Kisumu,Consumer
+CUST0223,Nakuru,Consumer
+CUST0224,Kiambu,Small Business
+CUST0225,Nakuru,Corporate
+CUST0226,Mombasa,Consumer
+CUST0227,Kiambu,Corporate
+CUST0228,Kisumu,Consumer
+CUST0229,Nairobi,Small Business
+CUST0230,Nyeri,Corporate
+CUST0231,Nyeri,Corporate
+CUST0232,Kisumu,Small Business
+CUST0233,Kiambu,Corporate
+CUST0234,Kisumu,Consumer
+CUST0235,Nyeri,Consumer
+CUST0236,Mombasa,Small Business
+CUST0237,Nyeri,Consumer
+CUST0238,Mombasa,Small Business
+CUST0239,Nakuru,Consumer
+CUST0240,Mombasa,Corporate
+CUST0241,Mombasa,Corporate
+CUST0242,Kiambu,Corporate
+CUST0243,Nyeri,Corporate
+CUST0244,Kiambu,Consumer
+CUST0245,Kiambu,Consumer
+CUST0246,Kiambu,Small Business
+CUST0247,Kiambu,Small Business
+CUST0248,Mombasa,Small Business
+CUST0249,Kisumu,Small Business
+CUST0250,Mombasa,Small Business
+CUST0251,Kisumu,Consumer
+CUST0252,Kisumu,Consumer
+CUST0253,Nairobi,Small Business
+CUST0254,Nakuru,Small Business
+CUST0255,Kiambu,Corporate
+CUST0256,Nairobi,Small Business
+CUST0257,Kisumu,Corporate
+CUST0258,Kisumu,Corporate
+CUST0259,Nyeri,Consumer
+CUST0260,Mombasa,Small Business
+CUST0261,Kisumu,Small Business
+CUST0262,Nairobi,Small Business
+CUST0263,Kiambu,Consumer
+CUST0264,Kisumu,Corporate
+CUST0265,Kisumu,Corporate
+CUST0266,Mombasa,Consumer
+CUST0267,Kiambu,Consumer
+CUST0268,Nakuru,Consumer
+CUST0269,Nyeri,Corporate
+CUST0270,Nairobi,Small Business
+CUST0271,Mombasa,Consumer
+CUST0272,Nyeri,Corporate
+CUST0273,Mombasa,Small Business
+CUST0274,Kiambu,Small Business
+CUST0275,Mombasa,Small Business
+CUST0276,Mombasa,Small Business
+CUST0277,Nakuru,Small Business
+CUST0278,Mombasa,Consumer
+CUST0279,Mombasa,Small Business
+CUST0280,Mombasa,Corporate
+CUST0281,Kisumu,Small Business
+CUST0282,Nairobi,Corporate
+CUST0283,Nakuru,Small Business
+CUST0284,Nairobi,Corporate
+CUST0285,Mombasa,Consumer
+CUST0286,Nakuru,Corporate
+CUST0287,Mombasa,Consumer
+CUST0288,Nyeri,Consumer
+CUST0289,Mombasa,Consumer
+CUST0290,Nakuru,Consumer
+CUST0291,Nairobi,Corporate
+CUST0292,Mombasa,Corporate
+CUST0293,Nairobi,Corporate
+CUST0294,Nakuru,Consumer
+CUST0295,Nakuru,Corporate
+CUST0296,Kiambu,Corporate
+CUST0297,Nyeri,Consumer
+CUST0298,Kiambu,Small Business
+CUST0299,Kisumu,Small Business
+CUST0300,Mombasa,Consumer
+CUST0301,Nakuru,Small Business
+CUST0302,Kisumu,Corporate
+CUST0303,Kisumu,Consumer
+CUST0304,Mombasa,Small Business
+CUST0305,Nyeri,Small Business
+CUST0306,Kisumu,Corporate
+CUST0307,Mombasa,Corporate
+CUST0308,Kiambu,Corporate
+CUST0309,Kiambu,Small Business
+CUST0310,Nakuru,Small Business
+CUST0311,Nakuru,Small Business
+CUST0312,Kiambu,Small Business
+CUST0313,Nairobi,Consumer
+CUST0314,Kiambu,Corporate
+CUST0315,Mombasa,Corporate
+CUST0316,Kiambu,Small Business
+CUST0317,Nakuru,Corporate
+CUST0318,Mombasa,Corporate
+CUST0319,Nyeri,Small Business
+CUST0320,Kisumu,Consumer
+CUST0321,Nyeri,Consumer
+CUST0322,Kisumu,Small Business
+CUST0323,Nakuru,Small Business
+CUST0324,Nyeri,Consumer
+CUST0325,Nairobi,Consumer
+CUST0326,Nakuru,Consumer
+CUST0327,Kisumu,Corporate
+CUST0328,Kiambu,Corporate
+CUST0329,Kiambu,Small Business
+CUST0330,Nyeri,Consumer
+CUST0331,Kiambu,Consumer
+CUST0332,Kiambu,Consumer
+CUST0333,Nairobi,Small Business
+CUST0334,Kiambu,Consumer
+CUST0335,Nairobi,Small Business
+CUST0336,Kiambu,Corporate
+CUST0337,Kisumu,Small Business
+CUST0338,Mombasa,Corporate
+CUST0339,Nakuru,Consumer
+CUST0340,Nairobi,Consumer
+CUST0341,Mombasa,Corporate
+CUST0342,Kisumu,Small Business
+CUST0343,Nairobi,Small Business
+CUST0344,Nairobi,Corporate
+CUST0345,Mombasa,Small Business
+CUST0346,Nyeri,Consumer
+CUST0347,Mombasa,Small Business
+CUST0348,Nairobi,Consumer
+CUST0349,Nairobi,Consumer
+CUST0350,Kiambu,Consumer
+CUST0351,Nairobi,Corporate
+CUST0352,Kisumu,Corporate
+CUST0353,Kiambu,Consumer
+CUST0354,Kisumu,Consumer
+CUST0355,Kisumu,Corporate
+CUST0356,Nyeri,Corporate
+CUST0357,Nakuru,Consumer
+CUST0358,Kisumu,Consumer
+CUST0359,Kisumu,Corporate
+CUST0360,Nairobi,Corporate
+CUST0361,Nyeri,Corporate
+CUST0362,Nakuru,Consumer
+CUST0363,Nakuru,Consumer
+CUST0364,Nakuru,Small Business
+CUST0365,Nakuru,Consumer
+CUST0366,Nyeri,Corporate
+CUST0367,Nyeri,Consumer
+CUST0368,Kisumu,Small Business
+CUST0369,Nakuru,Corporate
+CUST0370,Mombasa,Corporate
+CUST0371,Nakuru,Small Business
+CUST0372,Nakuru,Corporate
+CUST0373,Kisumu,Consumer
+CUST0374,Nairobi,Small Business
+CUST0375,Nakuru,Consumer
+CUST0376,Nyeri,Corporate
+CUST0377,Kisumu,Corporate
+CUST0378,Kisumu,Consumer
+CUST0379,Kiambu,Consumer
+CUST0380,Kiambu,Small Business
+CUST0381,Nakuru,Consumer
+CUST0382,Kiambu,Corporate
+CUST0383,Kisumu,Consumer
+CUST0384,Nyeri,Corporate
+CUST0385,Mombasa,Small Business
+CUST0386,Nyeri,Small Business
+CUST0387,Nakuru,Consumer
+CUST0388,Kisumu,Corporate
+CUST0389,Kiambu,Small Business
+CUST0390,Nairobi,Small Business
+CUST0391,Nakuru,Small Business
+CUST0392,Kisumu,Corporate
+CUST0393,Nyeri,Corporate
+CUST0394,Nakuru,Corporate
+CUST0395,Nairobi,Small Business
+CUST0396,Nyeri,Corporate
+CUST0397,Kisumu,Consumer
+CUST0398,Kisumu,Corporate
+CUST0399,Kisumu,Small Business
+CUST0400,Mombasa,Small Business
+CUST0401,Nakuru,Corporate
+CUST0402,Nakuru,Corporate
+CUST0403,Nakuru,Small Business
+CUST0404,Mombasa,Small Business
+CUST0405,Mombasa,Corporate
+CUST0406,Nakuru,Corporate
+CUST0407,Kiambu,Corporate
+CUST0408,Nakuru,Consumer
+CUST0409,Mombasa,Consumer
+CUST0410,Kiambu,Corporate
+CUST0411,Mombasa,Corporate
+CUST0412,Nakuru,Corporate
+CUST0413,Nakuru,Corporate
+CUST0414,Mombasa,Small Business
+CUST0415,Nairobi,Small Business
+CUST0416,Nyeri,Corporate
+CUST0417,Mombasa,Consumer
+CUST0418,Kisumu,Corporate
+CUST0419,Nairobi,Corporate
+CUST0420,Nyeri,Corporate
+CUST0421,Kisumu,Consumer
+CUST0422,Nairobi,Corporate
+CUST0423,Mombasa,Consumer
+CUST0424,Kiambu,Consumer
+CUST0425,Nyeri,Small Business
+CUST0426,Mombasa,Consumer
+CUST0427,Nairobi,Corporate
+CUST0428,Kisumu,Corporate
+CUST0429,Nyeri,Consumer
+CUST0430,Mombasa,Corporate
+CUST0431,Mombasa,Small Business
+CUST0432,Kisumu,Corporate
+CUST0433,Nyeri,Corporate
+CUST0434,Kisumu,Small Business
+CUST0435,Mombasa,Consumer
+CUST0436,Kiambu,Consumer
+CUST0437,Kiambu,Small Business
+CUST0438,Kiambu,Corporate
+CUST0439,Kisumu,Small Business
+CUST0440,Mombasa,Small Business
+CUST0441,Nakuru,Consumer
+CUST0442,Kiambu,Corporate
+CUST0443,Nakuru,Consumer
+CUST0444,Kisumu,Corporate
+CUST0445,Kiambu,Corporate
+CUST0446,Nakuru,Consumer
+CUST0447,Mombasa,Consumer
+CUST0448,Mombasa,Small Business
+CUST0449,Nyeri,Consumer
+CUST0450,Nyeri,Corporate
+CUST0451,Kiambu,Corporate
+CUST0452,Nyeri,Consumer
+CUST0453,Mombasa,Small Business
+CUST0454,Nyeri,Consumer
+CUST0455,Mombasa,Consumer
+CUST0456,Nairobi,Corporate
+CUST0457,Nairobi,Corporate
+CUST0458,Nyeri,Corporate
+CUST0459,Nairobi,Consumer
+CUST0460,Mombasa,Small Business
+CUST0461,Kiambu,Small Business
+CUST0462,Nairobi,Corporate
+CUST0463,Nyeri,Small Business
+CUST0464,Kiambu,Corporate
+CUST0465,Mombasa,Consumer
+CUST0466,Kisumu,Small Business
+CUST0467,Kiambu,Corporate
+CUST0468,Mombasa,Small Business
+CUST0469,Mombasa,Small Business
+CUST0470,Kisumu,Small Business
+CUST0471,Kisumu,Corporate
+CUST0472,Nairobi,Consumer
+CUST0473,Kiambu,Corporate
+CUST0474,Kisumu,Small Business
+CUST0475,Mombasa,Small Business
+CUST0476,Nakuru,Small Business
+CUST0477,Nairobi,Consumer
+CUST0478,Kisumu,Corporate
+CUST0479,Nairobi,Corporate
+CUST0480,Kisumu,Corporate
+CUST0481,Mombasa,Corporate
+CUST0482,Kisumu,Corporate
+CUST0483,Kisumu,Small Business
+CUST0484,Kisumu,Corporate
+CUST0485,Kiambu,Consumer
+CUST0486,Kiambu,Corporate
+CUST0487,Kiambu,Small Business
+CUST0488,Mombasa,Corporate
+CUST0489,Kisumu,Small Business
+CUST0490,Mombasa,Small Business
+CUST0491,Nakuru,Consumer
+CUST0492,Nakuru,Small Business
+CUST0493,Kisumu,Small Business
+CUST0494,Nyeri,Consumer
+CUST0495,Mombasa,Consumer
+CUST0496,Nairobi,Small Business
+CUST0497,Nairobi,Consumer
+CUST0498,Kiambu,Corporate
+CUST0499,Nairobi,Consumer
+CUST0500,Nairobi,Small Business

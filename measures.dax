@@ -1,0 +1,10 @@
+-- Create these measures after importing customers, transactions and rfm_customer_segments.
+Total Revenue = SUM(transactions[AmountKES])
+Total Transactions = DISTINCTCOUNT(transactions[TransactionID])
+Active Customers = DISTINCTCOUNT(transactions[CustomerID])
+Average Revenue per Customer = DIVIDE([Total Revenue], [Active Customers])
+Average Order Value = DIVIDE([Total Revenue], [Total Transactions])
+At-Risk Customers =
+CALCULATE(DISTINCTCOUNT(rfm_customer_segments[CustomerID]),
+          rfm_customer_segments[Segment] = "At Risk")
+At-Risk Customer % = DIVIDE([At-Risk Customers], DISTINCTCOUNT(rfm_customer_segments[CustomerID]))

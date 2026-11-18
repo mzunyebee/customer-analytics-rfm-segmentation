@@ -1,0 +1,501 @@
+CustomerID,County,CustomerType,LastPurchase,Frequency,MonetaryKES,RecencyDays,RScore,FScore,MScore,Segment
+CUST0001,Nakuru,Small Business,2025-05-16,5,9597.3,229,1,2,2,Needs Attention
+CUST0002,Mombasa,Small Business,2025-12-17,6,10020.92,14,5,3,2,Loyal Customers
+CUST0003,Nyeri,Consumer,2024-12-08,5,11200.52,388,1,2,3,Needs Attention
+CUST0004,Kisumu,Corporate,2025-09-06,4,14020.66,116,2,1,3,Needs Attention
+CUST0005,Nyeri,Small Business,2025-05-17,9,15563.02,228,1,5,4,At Risk
+CUST0006,Nyeri,Small Business,2025-10-29,6,13879.990000000002,63,3,3,3,Loyal Customers
+CUST0007,Kisumu,Small Business,2025-11-26,6,27573.08,35,4,3,5,Loyal Customers
+CUST0008,Nakuru,Consumer,2025-11-24,13,27702.420000000002,37,4,5,5,Champions
+CUST0009,Nyeri,Consumer,2025-12-05,5,16190.72,26,5,2,4,New / Promising
+CUST0010,Mombasa,Small Business,2025-05-29,2,5430.96,216,1,1,1,Needs Attention
+CUST0011,Kisumu,Small Business,2025-07-25,6,11698.55,159,2,3,3,At Risk
+CUST0012,Nyeri,Corporate,2025-03-16,3,8427.89,290,1,1,2,Needs Attention
+CUST0013,Nyeri,Small Business,2025-10-21,3,9375.51,71,3,1,2,Needs Attention
+CUST0014,Nyeri,Small Business,2025-12-20,4,8605.57,11,5,1,2,New / Promising
+CUST0015,Kisumu,Corporate,2025-10-29,7,9935.92,63,4,4,2,Loyal Customers
+CUST0016,Nyeri,Consumer,2025-04-27,5,13787.71,248,1,2,3,Needs Attention
+CUST0017,Nyeri,Corporate,2025-12-10,7,14477.369999999999,21,5,4,4,Champions
+CUST0018,Nyeri,Corporate,2025-05-05,4,16685.149999999998,240,1,1,4,Needs Attention
+CUST0019,Nyeri,Consumer,2025-10-23,4,5451.18,69,3,1,1,Needs Attention
+CUST0020,Nairobi,Consumer,2025-12-22,6,17923.29,9,5,3,5,Loyal Customers
+CUST0021,Nairobi,Consumer,2025-12-23,6,14885.33,8,5,3,4,Loyal Customers
+CUST0022,Mombasa,Consumer,2025-12-18,5,9378.15,13,5,2,2,New / Promising
+CUST0023,Nakuru,Small Business,2025-03-23,6,13187.36,283,1,3,3,At Risk
+CUST0024,Kiambu,Consumer,2025-07-03,8,20521.61,181,2,4,5,At Risk
+CUST0025,Kisumu,Small Business,2025-11-04,5,14406.83,57,4,2,4,New / Promising
+CUST0026,Kiambu,Consumer,2025-11-21,11,28197.95,40,4,5,5,Champions
+CUST0027,Kiambu,Consumer,2025-08-16,5,15162.81,137,2,2,4,Needs Attention
+CUST0028,Nairobi,Consumer,2025-11-17,3,6231.84,44,4,1,1,New / Promising
+CUST0029,Nyeri,Consumer,2025-10-24,6,13578.52,68,3,3,3,Loyal Customers
+CUST0030,Kiambu,Corporate,2025-09-02,3,9866.93,120,2,1,2,Needs Attention
+CUST0031,Nyeri,Consumer,2025-11-25,10,17811.14,36,4,5,4,Champions
+CUST0032,Nakuru,Consumer,2025-10-26,6,12649.86,66,3,3,3,Loyal Customers
+CUST0033,Kiambu,Consumer,2025-12-29,4,11414.3,2,5,1,3,New / Promising
+CUST0034,Kisumu,Small Business,2025-09-12,5,7950.150000000001,110,2,2,2,Needs Attention
+CUST0035,Kiambu,Small Business,2025-11-19,8,11827.28,42,4,4,3,Loyal Customers
+CUST0036,Kisumu,Corporate,2025-12-12,6,16031.06,19,5,3,4,Loyal Customers
+CUST0037,Nyeri,Small Business,2025-11-11,5,10302.21,50,4,2,2,New / Promising
+CUST0038,Kisumu,Small Business,2025-10-14,3,11662.939999999999,78,3,1,3,Needs Attention
+CUST0039,Kiambu,Small Business,2025-09-30,3,8113.2300000000005,92,3,1,2,Needs Attention
+CUST0040,Mombasa,Corporate,2024-07-30,2,1964.67,519,1,1,1,Needs Attention
+CUST0041,Nyeri,Small Business,2025-09-06,7,12169.0,116,2,4,3,At Risk
+CUST0042,Nakuru,Consumer,2025-11-19,8,15529.33,42,4,4,4,Champions
+CUST0043,Mombasa,Corporate,2025-07-03,6,12049.77,181,2,3,3,At Risk
+CUST0044,Kiambu,Corporate,2025-09-06,7,9815.17,116,2,4,2,At Risk
+CUST0045,Nakuru,Small Business,2025-09-21,8,22879.58,101,3,4,5,Loyal Customers
+CUST0046,Kiambu,Corporate,2025-12-12,8,19615.35,19,5,4,5,Champions
+CUST0047,Nakuru,Corporate,2025-09-22,4,12190.73,100,3,1,3,Needs Attention
+CUST0048,Nakuru,Consumer,2025-08-12,4,17711.03,141,2,1,4,Needs Attention
+CUST0049,Nyeri,Corporate,2025-09-13,4,10834.92,109,2,1,2,Needs Attention
+CUST0050,Nyeri,Small Business,2025-10-20,5,9270.279999999999,72,3,2,2,Needs Attention
+CUST0051,Kisumu,Small Business,2025-09-18,3,5510.280000000001,104,3,1,1,Needs Attention
+CUST0052,Kisumu,Small Business,2025-05-28,4,13750.16,217,1,1,3,Needs Attention
+CUST0053,Nairobi,Corporate,2025-10-03,3,10821.33,89,3,1,2,Needs Attention
+CUST0054,Mombasa,Small Business,2025-08-21,8,18914.989999999998,132,2,4,5,At Risk
+CUST0055,Kiambu,Small Business,2025-12-16,9,14403.93,15,5,5,4,Champions
+CUST0056,Kisumu,Consumer,2025-10-12,6,7545.7,80,3,3,1,Loyal Customers
+CUST0057,Nairobi,Small Business,2025-11-15,6,20039.3,46,4,3,5,Loyal Customers
+CUST0058,Mombasa,Corporate,2025-07-08,2,2772.39,176,2,1,1,Needs Attention
+CUST0059,Nyeri,Corporate,2025-12-26,5,10332.5,5,5,2,2,New / Promising
+CUST0060,Mombasa,Consumer,2025-12-11,8,24785.32,20,5,4,5,Champions
+CUST0061,Kiambu,Corporate,2025-12-01,6,15066.66,30,4,3,4,Loyal Customers
+CUST0062,Mombasa,Corporate,2025-05-20,7,19528.49,225,1,4,5,At Risk
+CUST0063,Nyeri,Small Business,2025-08-22,5,7799.73,131,2,2,1,Needs Attention
+CUST0064,Nairobi,Consumer,2025-12-10,7,18336.68,21,5,4,5,Champions
+CUST0065,Kiambu,Small Business,2025-12-20,5,7861.549999999999,11,5,2,1,New / Promising
+CUST0066,Nakuru,Consumer,2025-10-25,4,9020.58,67,3,1,2,Needs Attention
+CUST0067,Nyeri,Consumer,2025-10-28,5,11928.3,64,3,2,3,Needs Attention
+CUST0068,Nairobi,Small Business,2025-09-15,5,16020.039999999999,107,3,2,4,Needs Attention
+CUST0069,Mombasa,Corporate,2025-08-27,6,11033.81,126,2,3,2,At Risk
+CUST0070,Kiambu,Small Business,2025-10-15,3,7371.27,77,3,1,1,Needs Attention
+CUST0071,Nairobi,Corporate,2025-01-17,7,12517.630000000001,348,1,4,3,At Risk
+CUST0072,Kisumu,Corporate,2024-11-04,4,6468.1,422,1,1,1,Needs Attention
+CUST0073,Mombasa,Consumer,2025-02-24,6,13818.91,310,1,3,3,At Risk
+CUST0074,Nyeri,Consumer,2025-10-02,6,10604.78,90,3,3,2,Loyal Customers
+CUST0075,Nyeri,Corporate,2025-12-01,10,15110.400000000001,30,4,5,4,Champions
+CUST0076,Nairobi,Corporate,2025-12-19,9,14304.64,12,5,5,4,Champions
+CUST0077,Nakuru,Small Business,2025-05-17,1,1475.34,228,1,1,1,Needs Attention
+CUST0078,Mombasa,Small Business,2025-11-02,5,20798.280000000002,59,4,2,5,New / Promising
+CUST0079,Kisumu,Small Business,2025-09-15,13,22442.77,107,3,5,5,Loyal Customers
+CUST0080,Mombasa,Corporate,2025-10-29,5,8324.15,63,4,2,2,New / Promising
+CUST0081,Nakuru,Corporate,2025-11-05,6,11864.83,56,4,3,3,Loyal Customers
+CUST0082,Nakuru,Consumer,2025-07-13,7,30217.239999999998,171,2,4,5,At Risk
+CUST0083,Kiambu,Consumer,2025-12-18,9,17382.84,13,5,5,4,Champions
+CUST0084,Kiambu,Consumer,2025-12-05,9,17165.51,26,5,5,4,Champions
+CUST0085,Nakuru,Corporate,2025-02-22,5,12050.279999999999,312,1,2,3,Needs Attention
+CUST0086,Nairobi,Corporate,2025-11-22,11,17860.21,39,4,5,4,Champions
+CUST0087,Mombasa,Corporate,2025-08-25,7,12496.83,128,2,4,3,At Risk
+CUST0088,Nyeri,Consumer,2025-08-14,6,12376.21,139,2,3,3,At Risk
+CUST0089,Nairobi,Small Business,2025-10-19,5,13863.5,73,3,2,3,Needs Attention
+CUST0090,Nyeri,Consumer,2025-04-28,5,10073.67,247,1,2,2,Needs Attention
+CUST0091,Nairobi,Small Business,2025-10-10,2,9941.269999999999,82,3,1,2,Needs Attention
+CUST0092,Nairobi,Consumer,2025-04-06,5,10905.16,269,1,2,2,Needs Attention
+CUST0093,Nakuru,Corporate,2025-07-27,5,7017.77,157,2,2,1,Needs Attention
+CUST0094,Kiambu,Consumer,2025-01-23,7,17613.44,342,1,4,4,At Risk
+CUST0095,Kisumu,Small Business,2025-07-23,6,17863.03,161,2,3,5,At Risk
+CUST0096,Kisumu,Corporate,2025-07-18,6,9771.63,166,2,3,2,At Risk
+CUST0097,Kisumu,Corporate,2025-12-12,9,17790.4,19,5,5,4,Champions
+CUST0098,Nakuru,Consumer,2025-11-11,3,6147.65,50,4,1,1,New / Promising
+CUST0099,Kisumu,Corporate,2025-12-26,7,24241.07,5,5,4,5,Champions
+CUST0100,Mombasa,Small Business,2025-12-25,5,18999.91,6,5,2,5,New / Promising
+CUST0101,Nairobi,Small Business,2025-10-15,8,19920.989999999998,77,3,4,5,Loyal Customers
+CUST0102,Kiambu,Small Business,2025-10-06,7,12759.2,86,3,4,3,Loyal Customers
+CUST0103,Nakuru,Corporate,2025-12-22,7,14969.52,9,5,4,4,Champions
+CUST0104,Nyeri,Small Business,2025-10-09,5,14159.259999999998,83,3,2,4,Needs Attention
+CUST0105,Mombasa,Small Business,2025-09-23,3,12236.77,99,3,1,3,Needs Attention
+CUST0106,Kiambu,Small Business,2025-09-12,8,19131.45,110,2,4,5,At Risk
+CUST0107,Nakuru,Consumer,2025-11-02,4,9060.54,59,4,1,2,New / Promising
+CUST0108,Kiambu,Corporate,2025-11-12,7,14641.41,49,4,4,4,Champions
+CUST0109,Kiambu,Consumer,2025-11-18,6,19407.07,43,4,3,5,Loyal Customers
+CUST0110,Nairobi,Small Business,2025-11-26,7,14798.960000000001,35,4,4,4,Champions
+CUST0111,Nairobi,Small Business,2025-03-20,6,12949.71,286,1,3,3,At Risk
+CUST0112,Kisumu,Consumer,2025-11-07,2,3262.91,54,4,1,1,New / Promising
+CUST0113,Nakuru,Small Business,2025-12-22,11,17841.02,9,5,5,4,Champions
+CUST0114,Kiambu,Small Business,2024-10-23,2,5282.33,434,1,1,1,Needs Attention
+CUST0115,Nairobi,Consumer,2025-12-30,9,25536.370000000003,1,5,5,5,Champions
+CUST0116,Kisumu,Consumer,2025-06-05,5,7905.51,209,1,2,2,Needs Attention
+CUST0117,Nyeri,Corporate,2025-07-19,6,9976.619999999999,165,2,3,2,At Risk
+CUST0118,Nakuru,Corporate,2025-10-23,8,16442.420000000002,69,3,4,4,Loyal Customers
+CUST0119,Nakuru,Small Business,2025-10-11,9,25630.48,81,3,5,5,Loyal Customers
+CUST0120,Kiambu,Consumer,2025-11-28,5,10022.779999999999,33,4,2,2,New / Promising
+CUST0121,Nairobi,Consumer,2025-09-13,10,16335.17,109,2,5,4,At Risk
+CUST0122,Kiambu,Consumer,2025-12-15,7,16488.86,16,5,4,4,Champions
+CUST0123,Mombasa,Small Business,2025-11-10,6,8501.36,51,4,3,2,Loyal Customers
+CUST0124,Nyeri,Corporate,2025-07-22,2,3116.0600000000004,162,2,1,1,Needs Attention
+CUST0125,Kiambu,Corporate,2025-05-17,5,16791.15,228,1,2,4,Needs Attention
+CUST0126,Kisumu,Small Business,2025-12-13,5,7752.14,18,5,2,1,New / Promising
+CUST0127,Nakuru,Corporate,2025-04-14,9,14111.17,261,1,5,3,At Risk
+CUST0128,Mombasa,Small Business,2025-11-30,8,14315.89,31,4,4,4,Champions
+CUST0129,Nakuru,Consumer,2025-01-22,4,5668.51,343,1,1,1,Needs Attention
+CUST0130,Kisumu,Small Business,2025-11-24,4,5624.79,37,4,1,1,New / Promising
+CUST0131,Kisumu,Consumer,2025-11-17,6,7395.02,44,4,3,1,Loyal Customers
+CUST0132,Nakuru,Corporate,2024-11-06,3,4038.1699999999996,420,1,1,1,Needs Attention
+CUST0133,Mombasa,Small Business,2025-05-08,9,18094.87,237,1,5,5,At Risk
+CUST0134,Nairobi,Small Business,2025-11-27,5,11905.81,34,4,2,3,New / Promising
+CUST0135,Kisumu,Small Business,2025-12-10,6,22108.73,21,5,3,5,Loyal Customers
+CUST0136,Nyeri,Corporate,2025-11-15,12,33527.79,46,4,5,5,Champions
+CUST0137,Nairobi,Small Business,2025-09-05,6,14450.289999999999,117,2,3,4,At Risk
+CUST0138,Nyeri,Small Business,2025-11-26,5,10983.18,35,4,2,2,New / Promising
+CUST0139,Nakuru,Consumer,2025-12-08,11,30157.74,23,5,5,5,Champions
+CUST0140,Kiambu,Corporate,2025-11-29,4,8550.25,32,4,1,2,New / Promising
+CUST0141,Nakuru,Small Business,2025-11-09,5,14225.720000000001,52,4,2,4,New / Promising
+CUST0142,Mombasa,Consumer,2025-12-27,5,14927.0,4,5,2,4,New / Promising
+CUST0143,Kisumu,Corporate,2025-08-17,10,22605.22,136,2,5,5,At Risk
+CUST0144,Nairobi,Consumer,2025-11-21,4,13696.35,40,4,1,3,New / Promising
+CUST0145,Mombasa,Consumer,2025-10-09,9,21213.829999999998,83,3,5,5,Loyal Customers
+CUST0146,Kiambu,Small Business,2025-11-05,9,30696.22,56,4,5,5,Champions
+CUST0147,Nakuru,Small Business,2025-05-01,2,2458.7,244,1,1,1,Needs Attention
+CUST0148,Kiambu,Small Business,2025-12-30,10,20216.79,1,5,5,5,Champions
+CUST0149,Kisumu,Consumer,2025-08-02,8,21299.09,151,2,4,5,At Risk
+CUST0150,Nairobi,Consumer,2025-09-06,5,9908.66,116,2,2,2,Needs Attention
+CUST0151,Nakuru,Consumer,2025-02-12,5,5392.09,322,1,2,1,Needs Attention
+CUST0152,Kisumu,Consumer,2025-12-29,5,9879.5,2,5,2,2,New / Promising
+CUST0153,Kisumu,Corporate,2025-11-27,6,7304.360000000001,34,4,3,1,Loyal Customers
+CUST0154,Kiambu,Small Business,2025-11-19,10,17829.48,42,4,5,4,Champions
+CUST0155,Nakuru,Small Business,2025-12-23,10,33636.83,8,5,5,5,Champions
+CUST0156,Nyeri,Small Business,2025-10-10,3,12206.300000000001,82,3,1,3,Needs Attention
+CUST0157,Kiambu,Corporate,2025-10-20,7,13943.79,72,3,4,3,Loyal Customers
+CUST0158,Nairobi,Consumer,2025-03-03,5,12032.18,303,1,2,3,Needs Attention
+CUST0159,Nakuru,Consumer,2025-12-17,6,23820.64,14,5,3,5,Loyal Customers
+CUST0160,Nairobi,Small Business,2025-12-25,6,8565.46,6,5,3,2,Loyal Customers
+CUST0161,Kisumu,Small Business,2025-11-23,10,15056.46,38,4,5,4,Champions
+CUST0162,Kiambu,Corporate,2025-12-21,9,21060.739999999998,10,5,5,5,Champions
+CUST0163,Kiambu,Corporate,2025-10-22,6,13317.12,70,3,3,3,Loyal Customers
+CUST0164,Mombasa,Corporate,2025-09-29,8,13757.48,93,3,4,3,Loyal Customers
+CUST0165,Mombasa,Consumer,2025-06-07,9,20999.33,207,1,5,5,At Risk
+CUST0166,Nakuru,Consumer,2025-12-12,10,17666.59,19,5,5,4,Champions
+CUST0167,Nyeri,Consumer,2025-12-23,8,17236.17,8,5,4,4,Champions
+CUST0168,Nyeri,Corporate,2024-09-04,3,3724.17,483,1,1,1,Needs Attention
+CUST0169,Mombasa,Corporate,2025-10-10,7,10987.55,82,3,4,2,Loyal Customers
+CUST0170,Nyeri,Corporate,2025-09-25,7,13956.970000000001,97,3,4,3,Loyal Customers
+CUST0171,Mombasa,Consumer,2025-12-25,2,3865.31,6,5,1,1,New / Promising
+CUST0172,Nakuru,Corporate,2025-11-02,6,9310.78,59,4,3,2,Loyal Customers
+CUST0173,Nyeri,Small Business,2025-09-13,9,27969.199999999997,109,2,5,5,At Risk
+CUST0174,Nakuru,Corporate,2025-09-15,7,21101.66,107,3,4,5,Loyal Customers
+CUST0175,Nairobi,Small Business,2025-10-06,6,14431.91,86,3,3,4,Loyal Customers
+CUST0176,Kisumu,Consumer,2025-03-02,5,8208.16,304,1,2,2,Needs Attention
+CUST0177,Nakuru,Consumer,2025-11-25,5,11478.96,36,4,2,3,New / Promising
+CUST0178,Nyeri,Corporate,2025-07-26,3,3784.44,158,2,1,1,Needs Attention
+CUST0179,Mombasa,Small Business,2025-08-28,4,3441.5,125,2,1,1,Needs Attention
+CUST0180,Mombasa,Small Business,2025-04-09,7,11225.189999999999,266,1,4,3,At Risk
+CUST0181,Kisumu,Small Business,2025-12-19,5,28194.09,12,5,2,5,New / Promising
+CUST0182,Kisumu,Small Business,2025-07-26,2,5451.05,158,2,1,1,Needs Attention
+CUST0183,Kisumu,Corporate,2025-09-06,6,12913.31,116,2,3,3,At Risk
+CUST0184,Nairobi,Consumer,2025-08-22,7,15420.67,131,2,4,4,At Risk
+CUST0185,Kisumu,Consumer,2025-10-25,2,6016.379999999999,67,3,1,1,Needs Attention
+CUST0186,Nairobi,Corporate,2025-09-18,9,19413.96,104,3,5,5,Loyal Customers
+CUST0187,Mombasa,Small Business,2025-08-13,5,12456.16,140,2,2,3,Needs Attention
+CUST0188,Kiambu,Consumer,2025-12-11,8,10698.66,20,5,4,2,Loyal Customers
+CUST0189,Mombasa,Consumer,2025-10-21,10,18158.760000000002,71,3,5,5,Loyal Customers
+CUST0190,Mombasa,Consumer,2025-05-30,4,10943.35,215,1,1,2,Needs Attention
+CUST0191,Nyeri,Consumer,2024-07-03,3,6132.5,546,1,1,1,Needs Attention
+CUST0192,Nairobi,Consumer,2025-07-05,7,13866.64,179,2,4,3,At Risk
+CUST0193,Nakuru,Consumer,2025-12-18,6,7602.23,13,5,3,1,Loyal Customers
+CUST0194,Nairobi,Corporate,2025-07-06,9,20604.21,178,2,5,5,At Risk
+CUST0195,Nyeri,Corporate,2025-04-04,7,18568.26,271,1,4,5,At Risk
+CUST0196,Nyeri,Corporate,2025-10-12,4,9345.47,80,3,1,2,Needs Attention
+CUST0197,Mombasa,Small Business,2025-11-28,11,23002.88,33,4,5,5,Champions
+CUST0198,Kisumu,Consumer,2025-04-25,9,19849.54,250,1,5,5,At Risk
+CUST0199,Kisumu,Corporate,2025-07-12,2,4539.49,172,2,1,1,Needs Attention
+CUST0200,Nairobi,Corporate,2025-11-10,11,26369.59,51,4,5,5,Champions
+CUST0201,Nyeri,Small Business,2025-10-24,8,23914.62,68,3,4,5,Loyal Customers
+CUST0202,Mombasa,Consumer,2025-02-20,2,3014.81,314,1,1,1,Needs Attention
+CUST0203,Nairobi,Consumer,2025-11-05,3,5927.0599999999995,56,4,1,1,New / Promising
+CUST0204,Kiambu,Small Business,2025-10-02,3,6706.3,90,3,1,1,Needs Attention
+CUST0205,Nairobi,Small Business,2025-09-05,7,19112.65,117,2,4,5,At Risk
+CUST0206,Kiambu,Consumer,2025-12-02,9,30157.42,29,4,5,5,Champions
+CUST0207,Nakuru,Corporate,2025-12-16,11,19725.89,15,5,5,5,Champions
+CUST0208,Kiambu,Small Business,2025-03-23,6,9887.03,283,1,3,2,At Risk
+CUST0209,Nyeri,Small Business,2025-09-07,6,11760.45,115,2,3,3,At Risk
+CUST0210,Kisumu,Consumer,2025-10-13,2,4436.0,79,3,1,1,Needs Attention
+CUST0211,Kiambu,Corporate,2025-12-08,10,19533.92,23,5,5,5,Champions
+CUST0212,Nairobi,Corporate,2025-10-29,6,10327.74,63,4,3,2,Loyal Customers
+CUST0213,Kiambu,Consumer,2025-07-12,8,13627.560000000001,172,2,4,3,At Risk
+CUST0214,Nakuru,Small Business,2025-12-29,7,11748.05,2,5,4,3,Loyal Customers
+CUST0215,Kisumu,Small Business,2025-11-24,8,19300.02,37,4,4,5,Champions
+CUST0216,Mombasa,Corporate,2025-03-19,4,15876.880000000001,287,1,1,4,Needs Attention
+CUST0217,Mombasa,Consumer,2025-08-07,9,20696.23,146,2,5,5,At Risk
+CUST0218,Nakuru,Corporate,2025-09-13,3,5911.44,109,2,1,1,Needs Attention
+CUST0219,Kiambu,Small Business,2025-09-04,5,8448.09,118,2,2,2,Needs Attention
+CUST0220,Nairobi,Consumer,2025-11-08,7,12064.33,53,4,4,3,Loyal Customers
+CUST0221,Nakuru,Consumer,2025-11-21,6,14384.15,40,4,3,4,Loyal Customers
+CUST0222,Kisumu,Consumer,2025-04-20,4,9612.74,255,1,1,2,Needs Attention
+CUST0223,Nakuru,Consumer,2025-12-21,13,31795.82,10,5,5,5,Champions
+CUST0224,Kiambu,Small Business,2025-11-30,5,16652.65,31,4,2,4,New / Promising
+CUST0225,Nakuru,Corporate,2025-10-02,6,10260.779999999999,90,3,3,2,Loyal Customers
+CUST0226,Mombasa,Consumer,2025-08-08,8,22941.36,145,2,4,5,At Risk
+CUST0227,Kiambu,Corporate,2025-07-01,7,14612.08,183,2,4,4,At Risk
+CUST0228,Kisumu,Consumer,2025-01-14,5,11589.099999999999,351,1,2,3,Needs Attention
+CUST0229,Nairobi,Small Business,2025-07-31,4,7096.96,153,2,1,1,Needs Attention
+CUST0230,Nyeri,Corporate,2025-12-13,7,15158.34,18,5,4,4,Champions
+CUST0231,Nyeri,Corporate,2025-09-04,10,13702.630000000001,118,2,5,3,At Risk
+CUST0232,Kisumu,Small Business,2025-09-12,4,7214.81,110,2,1,1,Needs Attention
+CUST0233,Kiambu,Corporate,2025-10-31,6,9325.34,61,4,3,2,Loyal Customers
+CUST0234,Kisumu,Consumer,2025-11-02,11,23288.079999999998,59,4,5,5,Champions
+CUST0235,Nyeri,Consumer,2025-12-10,7,14445.08,21,5,4,4,Champions
+CUST0236,Mombasa,Small Business,2025-08-11,5,16547.85,142,2,2,4,Needs Attention
+CUST0237,Nyeri,Consumer,2025-12-26,10,20529.510000000002,5,5,5,5,Champions
+CUST0238,Mombasa,Small Business,2025-10-09,8,11389.89,83,3,4,3,Loyal Customers
+CUST0239,Nakuru,Consumer,2025-05-23,6,13195.18,222,1,3,3,At Risk
+CUST0240,Mombasa,Corporate,2025-12-19,8,23696.17,12,5,4,5,Champions
+CUST0241,Mombasa,Corporate,2025-07-13,3,7894.06,171,2,1,2,Needs Attention
+CUST0242,Kiambu,Corporate,2025-06-23,7,18262.95,191,1,4,5,At Risk
+CUST0243,Nyeri,Corporate,2025-04-22,4,6038.99,253,1,1,1,Needs Attention
+CUST0244,Kiambu,Consumer,2025-10-15,3,5864.5,77,3,1,1,Needs Attention
+CUST0245,Kiambu,Consumer,2025-09-27,7,17848.68,95,3,4,4,Loyal Customers
+CUST0246,Kiambu,Small Business,2025-12-25,5,16959.620000000003,6,5,2,4,New / Promising
+CUST0247,Kiambu,Small Business,2025-09-18,7,14539.24,104,3,4,4,Loyal Customers
+CUST0248,Mombasa,Small Business,2025-12-09,8,12946.19,22,5,4,3,Loyal Customers
+CUST0249,Kisumu,Small Business,2025-09-25,6,9810.26,97,3,3,2,Loyal Customers
+CUST0250,Mombasa,Small Business,2025-04-27,5,4827.4800000000005,248,1,2,1,Needs Attention
+CUST0251,Kisumu,Consumer,2024-01-31,1,1535.97,700,1,1,1,Needs Attention
+CUST0252,Kisumu,Consumer,2025-09-25,5,8525.78,97,3,2,2,Needs Attention
+CUST0253,Nairobi,Small Business,2025-08-02,4,7397.0,151,2,1,1,Needs Attention
+CUST0254,Nakuru,Small Business,2025-12-27,7,16375.32,4,5,4,4,Champions
+CUST0255,Kiambu,Corporate,2025-12-09,4,9957.630000000001,22,5,1,2,New / Promising
+CUST0256,Nairobi,Small Business,2025-08-04,9,17574.36,149,2,5,4,At Risk
+CUST0257,Kisumu,Corporate,2025-02-26,4,9830.670000000002,308,1,1,2,Needs Attention
+CUST0258,Kisumu,Corporate,2025-10-03,7,18999.449999999997,89,3,4,5,Loyal Customers
+CUST0259,Nyeri,Consumer,2025-10-29,5,12769.9,63,4,2,3,New / Promising
+CUST0260,Mombasa,Small Business,2025-08-16,5,13112.92,137,2,2,3,Needs Attention
+CUST0261,Kisumu,Small Business,2025-09-21,6,14881.24,101,3,3,4,Loyal Customers
+CUST0262,Nairobi,Small Business,2025-04-05,6,11717.21,270,1,3,3,At Risk
+CUST0263,Kiambu,Consumer,2025-10-18,7,16753.0,74,3,4,4,Loyal Customers
+CUST0264,Kisumu,Corporate,2025-11-10,5,12203.289999999999,51,4,2,3,New / Promising
+CUST0265,Kisumu,Corporate,2025-12-05,4,9604.18,26,5,1,2,New / Promising
+CUST0266,Mombasa,Consumer,2025-11-03,6,13019.22,58,4,3,3,Loyal Customers
+CUST0267,Kiambu,Consumer,2025-03-31,4,8310.66,275,1,1,2,Needs Attention
+CUST0268,Nakuru,Consumer,2025-10-02,7,12320.08,90,3,4,3,Loyal Customers
+CUST0269,Nyeri,Corporate,2025-09-24,7,25819.98,98,3,4,5,Loyal Customers
+CUST0270,Nairobi,Small Business,2025-12-19,6,14067.36,12,5,3,3,Loyal Customers
+CUST0271,Mombasa,Consumer,2025-10-13,5,10936.25,79,3,2,2,Needs Attention
+CUST0272,Nyeri,Corporate,2025-12-10,8,17577.83,21,5,4,4,Champions
+CUST0273,Mombasa,Small Business,2025-12-30,12,22230.75,1,5,5,5,Champions
+CUST0274,Kiambu,Small Business,2025-10-11,7,17499.82,81,3,4,4,Loyal Customers
+CUST0275,Mombasa,Small Business,2025-08-05,3,4965.75,148,2,1,1,Needs Attention
+CUST0276,Mombasa,Small Business,2025-11-21,5,9572.32,40,4,2,2,New / Promising
+CUST0277,Nakuru,Small Business,2025-09-15,8,14035.279999999999,107,3,4,3,Loyal Customers
+CUST0278,Mombasa,Consumer,2025-10-31,4,9367.29,61,4,1,2,New / Promising
+CUST0279,Mombasa,Small Business,2025-09-03,11,20927.05,119,2,5,5,At Risk
+CUST0280,Mombasa,Corporate,2025-09-19,4,14268.29,103,3,1,4,Needs Attention
+CUST0281,Kisumu,Small Business,2025-07-15,7,17359.31,169,2,4,4,At Risk
+CUST0282,Nairobi,Corporate,2025-11-06,6,15529.51,55,4,3,4,Loyal Customers
+CUST0283,Nakuru,Small Business,2024-12-14,4,3727.9,382,1,2,1,Needs Attention
+CUST0284,Nairobi,Corporate,2025-12-06,4,12228.04,25,5,2,3,New / Promising
+CUST0285,Mombasa,Consumer,2025-10-15,6,17219.54,77,3,3,4,Loyal Customers
+CUST0286,Nakuru,Corporate,2025-09-05,5,5997.69,117,2,2,1,Needs Attention
+CUST0287,Mombasa,Consumer,2025-09-04,6,27692.14,118,2,3,5,At Risk
+CUST0288,Nyeri,Consumer,2025-11-13,5,8361.73,48,4,2,2,New / Promising
+CUST0289,Mombasa,Consumer,2025-09-01,5,11799.4,121,2,2,3,Needs Attention
+CUST0290,Nakuru,Consumer,2025-12-06,7,13047.17,25,5,4,3,Loyal Customers
+CUST0291,Nairobi,Corporate,2025-09-07,8,15882.960000000001,115,2,4,4,At Risk
+CUST0292,Mombasa,Corporate,2025-11-13,6,12649.650000000001,48,4,3,3,Loyal Customers
+CUST0293,Nairobi,Corporate,2025-10-29,1,2006.28,63,4,1,1,New / Promising
+CUST0294,Nakuru,Consumer,2025-12-06,6,14289.64,25,5,3,4,Loyal Customers
+CUST0295,Nakuru,Corporate,2025-12-26,3,5385.959999999999,5,5,1,1,New / Promising
+CUST0296,Kiambu,Corporate,2025-12-16,9,13138.01,15,5,5,3,Loyal Customers
+CUST0297,Nyeri,Consumer,2025-09-11,9,24311.3,111,2,5,5,At Risk
+CUST0298,Kiambu,Small Business,2025-10-06,7,17653.309999999998,86,3,4,4,Loyal Customers
+CUST0299,Kisumu,Small Business,2025-12-03,8,27013.31,28,4,4,5,Champions
+CUST0300,Mombasa,Consumer,2025-11-13,9,16307.01,48,4,5,4,Champions
+CUST0301,Nakuru,Small Business,2025-11-05,5,8710.11,56,4,2,2,New / Promising
+CUST0302,Kisumu,Corporate,2025-11-02,3,2280.3,59,4,1,1,New / Promising
+CUST0303,Kisumu,Consumer,2025-10-28,10,21637.69,64,3,5,5,Loyal Customers
+CUST0304,Mombasa,Small Business,2025-10-29,8,14112.460000000001,63,4,5,4,Champions
+CUST0305,Nyeri,Small Business,2025-09-22,2,3777.5699999999997,100,3,1,1,Needs Attention
+CUST0306,Kisumu,Corporate,2025-10-05,8,20183.03,87,3,5,5,Loyal Customers
+CUST0307,Mombasa,Corporate,2025-08-15,5,11815.86,138,2,2,3,Needs Attention
+CUST0308,Kiambu,Corporate,2024-10-17,5,9801.84,440,1,2,2,Needs Attention
+CUST0309,Kiambu,Small Business,2025-12-30,6,13534.01,1,5,3,3,Loyal Customers
+CUST0310,Nakuru,Small Business,2025-12-16,11,25922.58,15,5,5,5,Champions
+CUST0311,Nakuru,Small Business,2025-12-19,5,9291.24,12,5,2,2,New / Promising
+CUST0312,Kiambu,Small Business,2025-06-06,7,16935.97,208,1,4,4,At Risk
+CUST0313,Nairobi,Consumer,2025-12-01,6,12991.720000000001,30,4,3,3,Loyal Customers
+CUST0314,Kiambu,Corporate,2025-06-23,6,15224.64,191,1,3,4,At Risk
+CUST0315,Mombasa,Corporate,2025-12-24,7,16359.84,7,5,4,4,Champions
+CUST0316,Kiambu,Small Business,2025-11-22,3,4549.87,39,4,1,1,New / Promising
+CUST0317,Nakuru,Corporate,2025-01-06,9,13748.85,359,1,5,3,At Risk
+CUST0318,Mombasa,Corporate,2025-08-22,4,8507.18,131,2,2,2,Needs Attention
+CUST0319,Nyeri,Small Business,2025-12-24,5,9319.119999999999,7,5,2,2,New / Promising
+CUST0320,Kisumu,Consumer,2025-12-03,11,22811.48,28,4,5,5,Champions
+CUST0321,Nyeri,Consumer,2025-05-20,3,3335.23,225,1,1,1,Needs Attention
+CUST0322,Kisumu,Small Business,2025-08-06,2,2744.0,147,2,1,1,Needs Attention
+CUST0323,Nakuru,Small Business,2025-07-30,8,20285.61,154,2,5,5,At Risk
+CUST0324,Nyeri,Consumer,2025-11-21,7,13300.74,40,4,4,3,Loyal Customers
+CUST0325,Nairobi,Consumer,2025-11-11,8,18544.63,50,4,5,5,Champions
+CUST0326,Nakuru,Consumer,2025-08-26,5,7886.540000000001,127,2,2,2,Needs Attention
+CUST0327,Kisumu,Corporate,2025-11-02,5,16262.8,59,4,2,4,New / Promising
+CUST0328,Kiambu,Corporate,2025-12-02,9,33753.77,29,4,5,5,Champions
+CUST0329,Kiambu,Small Business,2025-06-01,4,8294.45,213,1,2,2,Needs Attention
+CUST0330,Nyeri,Consumer,2025-12-10,3,6586.3,21,5,1,1,New / Promising
+CUST0331,Kiambu,Consumer,2025-08-14,1,2847.37,139,2,1,1,Needs Attention
+CUST0332,Kiambu,Consumer,2025-08-11,2,2755.4300000000003,142,2,1,1,Needs Attention
+CUST0333,Nairobi,Small Business,2025-12-26,7,13955.92,5,5,4,3,Loyal Customers
+CUST0334,Kiambu,Consumer,2025-12-10,2,2025.9499999999998,21,5,1,1,New / Promising
+CUST0335,Nairobi,Small Business,2025-12-30,7,10834.72,1,5,4,2,Loyal Customers
+CUST0336,Kiambu,Corporate,2025-12-30,7,17824.86,1,5,4,4,Champions
+CUST0337,Kisumu,Small Business,2025-12-03,5,7358.39,28,5,2,1,New / Promising
+CUST0338,Mombasa,Corporate,2025-08-15,8,17117.69,138,2,5,4,At Risk
+CUST0339,Nakuru,Consumer,2025-03-23,5,8457.49,283,1,2,2,Needs Attention
+CUST0340,Nairobi,Consumer,2025-09-26,6,11479.0,96,3,3,3,Loyal Customers
+CUST0341,Mombasa,Corporate,2025-09-18,12,39910.020000000004,104,3,5,5,Loyal Customers
+CUST0342,Kisumu,Small Business,2025-07-30,6,12300.310000000001,154,2,3,3,At Risk
+CUST0343,Nairobi,Small Business,2025-12-21,7,9008.34,10,5,4,2,Loyal Customers
+CUST0344,Nairobi,Corporate,2025-11-08,6,7023.64,53,4,3,1,Loyal Customers
+CUST0345,Mombasa,Small Business,2025-09-10,6,12698.02,112,2,3,3,At Risk
+CUST0346,Nyeri,Consumer,2025-10-14,8,13180.64,78,3,5,3,Loyal Customers
+CUST0347,Mombasa,Small Business,2025-07-13,9,18389.65,171,2,5,5,At Risk
+CUST0348,Nairobi,Consumer,2025-12-08,4,6814.450000000001,23,5,2,1,New / Promising
+CUST0349,Nairobi,Consumer,2025-12-22,5,7975.94,9,5,2,2,New / Promising
+CUST0350,Kiambu,Consumer,2025-12-27,9,17596.27,4,5,5,4,Champions
+CUST0351,Nairobi,Corporate,2024-11-15,3,7381.950000000001,411,1,1,1,Needs Attention
+CUST0352,Kisumu,Corporate,2025-09-11,6,17411.29,111,2,3,4,At Risk
+CUST0353,Kiambu,Consumer,2025-09-29,2,5008.33,93,3,1,1,Needs Attention
+CUST0354,Kisumu,Consumer,2025-11-14,4,8557.52,47,4,2,2,New / Promising
+CUST0355,Kisumu,Corporate,2024-05-26,2,5849.41,584,1,1,1,Needs Attention
+CUST0356,Nyeri,Corporate,2025-10-17,4,7746.23,75,3,2,1,Needs Attention
+CUST0357,Nakuru,Consumer,2025-09-24,4,10415.72,98,3,2,2,Needs Attention
+CUST0358,Kisumu,Consumer,2025-07-01,6,14688.45,183,2,3,4,At Risk
+CUST0359,Kisumu,Corporate,2025-09-26,7,13333.27,96,3,4,3,Loyal Customers
+CUST0360,Nairobi,Corporate,2025-12-24,12,23729.23,7,5,5,5,Champions
+CUST0361,Nyeri,Corporate,2025-10-13,5,11960.24,79,3,2,3,Needs Attention
+CUST0362,Nakuru,Consumer,2025-11-28,7,13874.42,33,4,4,3,Loyal Customers
+CUST0363,Nakuru,Consumer,2025-10-27,7,10972.48,65,3,4,2,Loyal Customers
+CUST0364,Nakuru,Small Business,2025-05-06,4,15448.6,239,1,2,4,Needs Attention
+CUST0365,Nakuru,Consumer,2025-08-01,5,8423.380000000001,152,2,2,2,Needs Attention
+CUST0366,Nyeri,Corporate,2025-11-12,6,11895.25,49,4,3,3,Loyal Customers
+CUST0367,Nyeri,Consumer,2025-09-14,4,9564.67,108,3,2,2,Needs Attention
+CUST0368,Kisumu,Small Business,2025-10-23,5,12948.42,69,3,2,3,Needs Attention
+CUST0369,Nakuru,Corporate,2025-11-27,6,15411.009999999998,34,4,3,4,Loyal Customers
+CUST0370,Mombasa,Corporate,2024-12-13,2,3174.4300000000003,383,1,1,1,Needs Attention
+CUST0371,Nakuru,Small Business,2025-12-28,5,8374.24,3,5,2,2,New / Promising
+CUST0372,Nakuru,Corporate,2025-10-05,7,13867.38,87,3,4,3,Loyal Customers
+CUST0373,Kisumu,Consumer,2025-11-26,11,27958.29,35,4,5,5,Champions
+CUST0374,Nairobi,Small Business,2025-10-14,9,16574.3,78,3,5,4,Loyal Customers
+CUST0375,Nakuru,Consumer,2024-12-06,5,7576.58,390,1,3,1,At Risk
+CUST0376,Nyeri,Corporate,2025-11-05,6,11092.18,56,4,3,2,Loyal Customers
+CUST0377,Kisumu,Corporate,2025-03-21,6,12761.41,285,1,3,3,At Risk
+CUST0378,Kisumu,Consumer,2025-09-09,8,18536.64,113,2,5,5,At Risk
+CUST0379,Kiambu,Consumer,2025-04-04,9,12622.61,271,1,5,3,At Risk
+CUST0380,Kiambu,Small Business,2025-06-04,5,11090.26,210,1,3,2,At Risk
+CUST0381,Nakuru,Consumer,2025-04-10,5,15618.189999999999,265,1,3,4,At Risk
+CUST0382,Kiambu,Corporate,2025-11-18,6,15241.18,43,4,3,4,Loyal Customers
+CUST0383,Kisumu,Consumer,2025-11-15,9,20426.23,46,4,5,5,Champions
+CUST0384,Nyeri,Corporate,2025-05-12,5,10754.76,233,1,3,2,At Risk
+CUST0385,Mombasa,Small Business,2025-10-02,9,14528.329999999998,90,3,5,4,Loyal Customers
+CUST0386,Nyeri,Small Business,2025-09-25,7,14857.63,97,3,4,4,Loyal Customers
+CUST0387,Nakuru,Consumer,2025-12-13,6,7604.98,18,5,3,1,Loyal Customers
+CUST0388,Kisumu,Corporate,2025-01-13,3,5800.89,352,1,1,1,Needs Attention
+CUST0389,Kiambu,Small Business,2025-11-17,7,17652.15,44,4,4,4,Champions
+CUST0390,Nairobi,Small Business,2025-11-14,8,13052.869999999999,47,4,5,3,Loyal Customers
+CUST0391,Nakuru,Small Business,2025-10-15,9,19261.77,77,3,5,5,Loyal Customers
+CUST0392,Kisumu,Corporate,2025-07-18,11,19901.68,166,2,5,5,At Risk
+CUST0393,Nyeri,Corporate,2025-11-14,4,4473.21,47,4,2,1,New / Promising
+CUST0394,Nakuru,Corporate,2025-11-27,9,24465.239999999998,34,4,5,5,Champions
+CUST0395,Nairobi,Small Business,2025-09-03,6,15098.09,119,2,3,4,At Risk
+CUST0396,Nyeri,Corporate,2025-11-28,6,8465.37,33,4,3,2,Loyal Customers
+CUST0397,Kisumu,Consumer,2025-09-26,11,30823.61,96,3,5,5,Loyal Customers
+CUST0398,Kisumu,Corporate,2025-09-16,7,13362.57,106,3,4,3,Loyal Customers
+CUST0399,Kisumu,Small Business,2025-01-17,6,19729.23,348,1,3,5,At Risk
+CUST0400,Mombasa,Small Business,2025-09-04,5,11034.24,118,2,3,2,At Risk
+CUST0401,Nakuru,Corporate,2025-06-23,5,15262.259999999998,191,1,3,4,At Risk
+CUST0402,Nakuru,Corporate,2025-12-30,8,11475.130000000001,1,5,5,3,Loyal Customers
+CUST0403,Nakuru,Small Business,2025-04-03,6,10106.67,272,1,3,2,At Risk
+CUST0404,Mombasa,Small Business,2024-10-18,1,2060.78,439,1,1,1,Needs Attention
+CUST0405,Mombasa,Corporate,2025-12-16,4,6570.17,15,5,2,1,New / Promising
+CUST0406,Nakuru,Corporate,2025-11-21,5,16416.37,40,4,3,4,Loyal Customers
+CUST0407,Kiambu,Corporate,2025-11-08,6,14297.8,53,4,3,4,Loyal Customers
+CUST0408,Nakuru,Consumer,2025-12-30,8,27717.88,1,5,5,5,Champions
+CUST0409,Mombasa,Consumer,2025-11-04,5,11793.34,57,4,3,3,Loyal Customers
+CUST0410,Kiambu,Corporate,2025-06-08,5,5229.71,206,1,3,1,At Risk
+CUST0411,Mombasa,Corporate,2025-07-09,6,12161.99,175,2,4,3,At Risk
+CUST0412,Nakuru,Corporate,2025-11-08,4,10646.130000000001,53,4,2,2,New / Promising
+CUST0413,Nakuru,Corporate,2025-04-16,2,1670.25,259,1,1,1,Needs Attention
+CUST0414,Mombasa,Small Business,2025-05-05,5,12372.58,240,1,3,3,At Risk
+CUST0415,Nairobi,Small Business,2025-12-10,8,17455.85,21,5,5,4,Champions
+CUST0416,Nyeri,Corporate,2025-09-15,5,18151.2,107,3,3,5,Loyal Customers
+CUST0417,Mombasa,Consumer,2025-03-29,4,7119.9,277,1,2,1,Needs Attention
+CUST0418,Kisumu,Corporate,2025-11-19,5,7874.860000000001,42,4,3,1,Loyal Customers
+CUST0419,Nairobi,Corporate,2025-08-02,4,7140.13,151,2,2,1,Needs Attention
+CUST0420,Nyeri,Corporate,2025-11-28,9,24406.63,33,4,5,5,Champions
+CUST0421,Kisumu,Consumer,2025-12-23,6,10942.84,8,5,4,2,Loyal Customers
+CUST0422,Nairobi,Corporate,2025-04-15,9,14900.14,260,1,5,4,At Risk
+CUST0423,Mombasa,Consumer,2025-01-28,5,9208.880000000001,337,1,3,2,At Risk
+CUST0424,Kiambu,Consumer,2025-12-12,8,16069.869999999999,19,5,5,4,Champions
+CUST0425,Nyeri,Small Business,2025-10-27,7,17297.47,65,3,4,4,Loyal Customers
+CUST0426,Mombasa,Consumer,2025-12-05,4,9521.22,26,5,2,2,New / Promising
+CUST0427,Nairobi,Corporate,2025-02-14,4,5948.22,320,1,2,1,Needs Attention
+CUST0428,Kisumu,Corporate,2025-09-11,6,9831.640000000001,111,2,4,2,At Risk
+CUST0429,Nyeri,Consumer,2025-03-22,3,4932.55,284,1,1,1,Needs Attention
+CUST0430,Mombasa,Corporate,2025-04-20,7,18221.43,255,1,4,5,At Risk
+CUST0431,Mombasa,Small Business,2024-10-08,2,2559.92,449,1,1,1,Needs Attention
+CUST0432,Kisumu,Corporate,2025-09-04,8,9395.07,118,2,5,2,At Risk
+CUST0433,Nyeri,Corporate,2025-11-28,6,15850.27,33,4,4,4,Champions
+CUST0434,Kisumu,Small Business,2025-12-25,4,6369.049999999999,6,5,2,1,New / Promising
+CUST0435,Mombasa,Consumer,2025-12-16,4,5259.73,15,5,2,1,New / Promising
+CUST0436,Kiambu,Consumer,2025-09-14,5,15012.31,108,3,3,4,Loyal Customers
+CUST0437,Kiambu,Small Business,2025-09-18,8,18062.18,104,3,5,5,Loyal Customers
+CUST0438,Kiambu,Corporate,2025-12-04,6,11631.08,27,5,4,3,Loyal Customers
+CUST0439,Kisumu,Small Business,2025-10-11,3,7774.51,81,3,1,1,Needs Attention
+CUST0440,Mombasa,Small Business,2025-05-22,3,3963.66,223,1,1,1,Needs Attention
+CUST0441,Nakuru,Consumer,2025-10-11,8,17364.579999999998,81,3,5,4,Loyal Customers
+CUST0442,Kiambu,Corporate,2025-11-30,4,7042.29,31,4,2,1,New / Promising
+CUST0443,Nakuru,Consumer,2025-05-02,4,14428.86,243,1,2,4,Needs Attention
+CUST0444,Kisumu,Corporate,2025-06-24,5,7981.240000000001,190,1,3,2,At Risk
+CUST0445,Kiambu,Corporate,2024-11-24,5,17994.59,402,1,3,5,At Risk
+CUST0446,Nakuru,Consumer,2025-10-21,10,14102.789999999999,71,3,5,3,Loyal Customers
+CUST0447,Mombasa,Consumer,2025-02-17,4,10357.76,317,1,2,2,Needs Attention
+CUST0448,Mombasa,Small Business,2025-12-02,8,28535.58,29,4,5,5,Champions
+CUST0449,Nyeri,Consumer,2025-11-26,5,11364.65,35,4,3,3,Loyal Customers
+CUST0450,Nyeri,Corporate,2025-10-07,8,19705.84,85,3,5,5,Loyal Customers
+CUST0451,Kiambu,Corporate,2025-12-22,4,9011.02,9,5,2,2,New / Promising
+CUST0452,Nyeri,Consumer,2025-05-06,5,16150.52,239,1,3,4,At Risk
+CUST0453,Mombasa,Small Business,2025-09-09,5,11140.58,113,2,3,2,At Risk
+CUST0454,Nyeri,Consumer,2025-10-08,4,6717.5,84,3,2,1,Needs Attention
+CUST0455,Mombasa,Consumer,2025-09-02,8,16637.96,120,2,5,4,At Risk
+CUST0456,Nairobi,Corporate,2025-12-18,4,8426.4,13,5,2,2,New / Promising
+CUST0457,Nairobi,Corporate,2025-07-04,4,12191.57,180,2,2,3,Needs Attention
+CUST0458,Nyeri,Corporate,2025-11-15,4,9675.029999999999,46,4,2,2,New / Promising
+CUST0459,Nairobi,Consumer,2025-07-13,6,20891.19,171,2,4,5,At Risk
+CUST0460,Mombasa,Small Business,2025-08-07,8,14635.78,146,2,5,4,At Risk
+CUST0461,Kiambu,Small Business,2025-10-16,3,8738.71,76,3,1,2,Needs Attention
+CUST0462,Nairobi,Corporate,2025-10-28,5,7041.75,64,3,3,1,Loyal Customers
+CUST0463,Nyeri,Small Business,2025-09-07,6,13785.2,115,2,4,3,At Risk
+CUST0464,Kiambu,Corporate,2024-11-01,3,11411.91,425,1,1,3,Needs Attention
+CUST0465,Mombasa,Consumer,2025-11-08,8,12699.01,53,4,5,3,Loyal Customers
+CUST0466,Kisumu,Small Business,2025-12-21,5,13156.8,10,5,3,3,Loyal Customers
+CUST0467,Kiambu,Corporate,2025-02-27,3,4591.41,307,1,1,1,Needs Attention
+CUST0468,Mombasa,Small Business,2025-10-19,5,11155.59,73,3,3,2,Loyal Customers
+CUST0469,Mombasa,Small Business,2025-11-19,3,5976.710000000001,42,4,1,1,New / Promising
+CUST0470,Kisumu,Small Business,2025-06-29,11,26657.670000000002,185,1,5,5,At Risk
+CUST0471,Kisumu,Corporate,2025-09-03,3,4616.59,119,2,1,1,Needs Attention
+CUST0472,Nairobi,Consumer,2024-12-27,6,15631.529999999999,369,1,4,4,At Risk
+CUST0473,Kiambu,Corporate,2025-01-02,1,4830.31,363,1,1,1,Needs Attention
+CUST0474,Kisumu,Small Business,2025-03-26,4,10349.67,280,1,2,2,Needs Attention
+CUST0475,Mombasa,Small Business,2025-10-19,8,13173.48,73,3,5,3,Loyal Customers
+CUST0476,Nakuru,Small Business,2025-07-12,6,19587.87,172,2,4,5,At Risk
+CUST0477,Nairobi,Consumer,2025-10-18,6,16467.88,74,3,4,4,Loyal Customers
+CUST0478,Kisumu,Corporate,2025-10-17,9,23021.76,75,3,5,5,Loyal Customers
+CUST0479,Nairobi,Corporate,2025-12-25,6,12598.41,6,5,4,3,Loyal Customers
+CUST0480,Kisumu,Corporate,2025-08-28,4,6367.779999999999,125,2,2,1,Needs Attention
+CUST0481,Mombasa,Corporate,2025-12-27,3,4342.0599999999995,4,5,1,1,New / Promising
+CUST0482,Kisumu,Corporate,2025-08-11,6,9994.08,142,2,4,2,At Risk
+CUST0483,Kisumu,Small Business,2025-09-13,6,12094.369999999999,109,2,4,3,At Risk
+CUST0484,Kisumu,Corporate,2025-12-17,5,11046.96,14,5,3,2,Loyal Customers
+CUST0485,Kiambu,Consumer,2025-03-19,3,4321.29,287,1,1,1,Needs Attention
+CUST0486,Kiambu,Corporate,2025-09-21,4,5459.84,101,3,2,1,Needs Attention
+CUST0487,Kiambu,Small Business,2025-12-04,10,32471.16,27,5,5,5,Champions
+CUST0488,Mombasa,Corporate,2024-05-01,2,4104.4,609,1,1,1,Needs Attention
+CUST0489,Kisumu,Small Business,2025-09-29,9,45256.79,93,3,5,5,Loyal Customers
+CUST0490,Mombasa,Small Business,2025-11-14,7,12088.380000000001,47,4,4,3,Loyal Customers
+CUST0491,Nakuru,Consumer,2025-07-19,7,17425.43,165,2,4,4,At Risk
+CUST0492,Nakuru,Small Business,2025-07-19,5,10365.25,165,2,3,2,At Risk
+CUST0493,Kisumu,Small Business,2025-09-30,4,5602.83,92,3,2,1,Needs Attention
+CUST0494,Nyeri,Consumer,2025-03-22,7,12997.05,284,1,4,3,At Risk
+CUST0495,Mombasa,Consumer,2025-12-27,11,23652.56,4,5,5,5,Champions
+CUST0496,Nairobi,Small Business,2025-06-29,9,23324.05,185,2,5,5,At Risk
+CUST0497,Nairobi,Consumer,2025-08-07,5,9705.71,146,2,3,2,At Risk
+CUST0498,Kiambu,Corporate,2025-12-16,8,11563.05,15,5,5,3,Loyal Customers
+CUST0499,Nairobi,Consumer,2025-06-17,5,7006.93,197,1,3,1,At Risk
+CUST0500,Nairobi,Small Business,2025-12-29,5,9309.7,2,5,3,2,Loyal Customers
